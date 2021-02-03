@@ -1,0 +1,10 @@
+*,*:before, *:after {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
+.app {
+    background: rgb(224,120,8);
+    background: linear-gradient(180deg, rgba(224,120,8,1) 0%, rgba(205,159,28,1) 65%, rgba(245,255,0,1) 100%);
+}
